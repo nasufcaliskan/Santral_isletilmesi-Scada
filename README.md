@@ -1,0 +1,1 @@
+# Santral_isletilmesi-Scada
